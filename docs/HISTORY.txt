@@ -1,8 +1,8 @@
 Changelog
 =========
 
-1.2 (unreleased)
-----------------
+1.1.1+cirb (2015-12-20)
+-----------------------
 
 - Fix missing Javascript call that breaks the widget
   [laulaz]
